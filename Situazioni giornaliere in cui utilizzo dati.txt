@@ -1,0 +1,29 @@
+Scrivi in un file di tipo testo, tutte le situazioni di una tua giornata tipo dove hai a che fare con i dati.
+
+Appena sveglio, controllo i messaggi
+● che tipo di dati usi o comunichi? Messaggi di testo o media (foto/video)
+● a cosa ti servono o a cosa possono servire a chi li raccoglie? Per comunicare
+● sono dati sensibili? Alcune volte si, altre no; dipende dal contenuto
+● puoi evitare di comunicarli? Si
+● Hai fornito il consenso al trattamento dei dati? Si
+
+Mentre guido, utilizzo il navigatore
+● che tipo di dati usi o comunichi? Viene utilizzata la mia posizione per calcolare il percorso
+● a cosa ti servono o a cosa possono servire a chi li raccoglie? Per raggiungere la mia destinazione nel più breve tempo possibile
+● sono dati sensibili? Si, perché sto dicendo esattamente dove mi trovo in quel preciso istante
+● puoi evitare di comunicarli? Si, magari disattivando il gps quando non uso l'app
+● Hai fornito il consenso al trattamento dei dati? Si
+
+Ascolto musica
+● che tipo di dati usi o comunichi? I miei artisti preferiti o i miei generi musicali preferiti
+● a cosa ti servono o a cosa possono servire a chi li raccoglie? Possono servire a chi li raccogliere per consigliarmi artisi/generi da ascoltare inn base alle mie preferenze              
+● sono dati sensibili? No
+● puoi evitare di comunicarli? Si, potrei evitare di inserire le mie preferenze musicali
+● Hai fornito il consenso al trattamento dei dati? Si
+
+Nel pomeriggio, mi alleno utilizzando un app specifica
+● che tipo di dati usi o comunichi? Calorie bruciate e distanza percorsa
+● a cosa ti servono o a cosa possono servire a chi li raccoglie? Per poter confrontare ogni mio allenamento e migliorare la mia condizione atletica
+● sono dati sensibili? Si, dato che si tratta di dati biometrici
+● puoi evitare di comunicarli? Si, non condividendoli
+● Hai fornito il consenso al trattamento dei dati? Si
