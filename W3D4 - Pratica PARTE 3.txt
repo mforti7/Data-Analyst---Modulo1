@@ -1,0 +1,15 @@
+W3D4 - Pratica: BIBLIOTECA “LETTURAOK” - PARTE 3
+
+
+Dire quali problemi/criticità trovate nel sistema:
+- gli utenti lamentano il fatto di poter prendere il prestito un solo libro alla volta;
+- gli utenti vorrebbero ampliare il periodo di prestito dei libri, per avere più tempo per leggerli;
+- gli utenti spesso dimenticano la data limite in cui dover restituire il libro, dovendo così pagare una multa per il periodo di ritardo;
+
+Dire come poter migliorare il sistema di gestione della Biblioteca:
+- Piattaforma online (sito/app), così da facilitare anche a distanza l'acquisto o il prestito di libri;
+- Implementare un servizio che avvisi gli utenti quando mancano pochi giorni per restituire il libro preso in prestito;
+- Ampliare il periodo di prestito di libri, concedendo più tempo agli utenti per leggerli;
+- "Macchina per libri" self-service (stile fast-food), una sorta di distributore per poter richiedere o restituire libri, riducendo così la necessità di personale;
+
+
